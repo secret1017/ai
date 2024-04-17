@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "ls"
+version = "0.1.0"
+description = ""
+authors = ["Secret1017 <rlarkddus768@naver.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
